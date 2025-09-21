@@ -1,0 +1,18 @@
+# Ігнорувати .env з секретами
+.env
+
+# Ігнорувати Composer файли
+/vendor/
+composer.lock
+
+# Ігнорувати IDE-файли
+*.log
+*.swp
+*.sublime-project
+*.sublime-workspace
+.idea/
+.vscode/
+
+# Ігнорувати системні файли
+.DS_Store
+Thumbs.db
